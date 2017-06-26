@@ -4,7 +4,6 @@ import rx.Observable;
 
 import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
-import java.util.concurrent.atomic.AtomicReference;
 
 
 // Exercise 1: Take series of numbers from series() and apply a simple math function on them
